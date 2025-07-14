@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Enmilo-dev
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on web3 projects
-- 📫 How to reach me? Dm me on X at the_enmilo
-- 😄 Pronouns: anmilo
-- ⚡ Fun fact: coding is love language to say I love you to computer.
+Hello, world!
+
+I'm Raihan — professional Googler, part-time debugger, full-time night owl.  
+I break things until they work, and sometimes… even after.
+
+Main stack: C/ C++ / Rust / Emotional damage
 
 <!---
 Enmilo-dev/Enmilo-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
