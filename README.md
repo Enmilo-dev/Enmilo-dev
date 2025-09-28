@@ -191,7 +191,7 @@ namespace Developer {
 </a>
 </td>
 <td align="center">
-<a href="mailto:your.email@example.com">
+<a href="mailto:mrr.doit@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </td>
@@ -243,7 +243,7 @@ namespace Developer {
 
 ---
 
-**🌍 Based in Dhaka, Bangladesh** | **💼 Open for Remote Opportunities** | **🚀 Ready to Build the Future**
+**🌍 Based in Earth, Solar System** | **💼 Open for Contribuition to this Planet** | **🚀 Ready to Build the Future**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Enmilo-dev&color=00D9FF&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/Enmilo-dev?style=flat-square&color=00D9FF&label=Followers)
