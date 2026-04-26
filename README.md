@@ -8,7 +8,7 @@ Currently learning **Solana program development in Rust** — interested in buil
 
 ## Featured Project
 
-### [Kairos Quantum](https://github.com/Enmilo-dev/crypto-alert-bot) — Production-grade Telegram alert system
+### [Kairos Quantum](https://github.com/Enmilo-dev/kairos-quantum) — Production-grade Telegram alert system
 > TypeScript · Node.js · Redis · PostgreSQL · Prisma · Docker · PM2
 
 Real-time cryptocurrency price alert bot monitoring **2,000+ Binance trading pairs** through a single persistent WebSocket connection.
